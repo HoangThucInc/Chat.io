@@ -1,0 +1,47 @@
+body {
+  background-color: #ceccca;
+}
+
+#wrapper{
+   margin: auto;
+   width: 900px;
+}
+
+#left{
+  width: 30%;
+  float: left;
+  background-color: #e2dfd0;
+}
+#right{
+  width: 70%;
+  float: right;
+  background: #bce0de;
+}
+#title{
+  border: solid black 1px;
+  padding: 5px;
+  text-align: center;
+}
+#box-content{
+  border: solid black 1px;
+  padding: 5px;
+  text-align: center;
+}
+.userOnline{
+    font-weight: 500;
+}
+#say{
+  text-align: right;
+}
+#listMessages{
+  height: 300px;
+  background-color: #aaf7f7;
+}
+#textMessage{
+  width: 85%;
+  float: left;
+}
+#btnSend{
+  width: 15%;
+  float: right;
+}
